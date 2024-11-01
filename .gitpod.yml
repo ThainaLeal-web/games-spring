@@ -9,6 +9,16 @@ vscode:
       - humao.rest-client
       - vscjava.vscode-gradle
 
+      - redhat.java
+
+      - vscjava.vscode-java-debug
+
+      - vscjava.vscode-java-dependency
+
+      - vscjava.vscode-java-test
+
+      - vscjava.vscode-maven
+
 ports:
   - port: 8080
     visibility: public
